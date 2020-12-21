@@ -1,0 +1,12 @@
+Algoritma Reverse Text :
+1. Mulai
+2. Input text
+3. cek apakah panjang text > 0, jika tidak kembali 
+   ke step kedua. jika ya lanjut ke step ke empat
+4. Pecah string menjadi array menggunakan 
+   pembatas spasi dan isi di variable text
+5. reverse element array pada variable text
+6. gabungkan setiap element array pada variable 
+   text dengan pembatas spasi
+7. cetak text
+8. Selesai

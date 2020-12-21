@@ -1,0 +1,20 @@
+Algoritma Palindrom :
+1. Mulai
+2. Input text
+3. cek apakah panjang dari text > 1
+   jika ya, maka lanjut ke step ke empat
+   jika tidak balik lagi ke step kedua
+4. Konversi text ke huruf kecil
+5. buat variable x dan isi dengan panjang text dikurangi 1
+6. Cek apakah x >= 0, jika ya lanjut ke step ke tujuh,
+   jika tidak lanjut ke step ke sembilan.
+7. isi variable reversedText dengan variable reversedText
+   itu sendiri dan concatination dengan variable text 
+   dengan index ke x.
+8. kurangi variable x dengan angka 1
+9. konversi reversedText menjadi huruf kecil
+10. cek apakah text == reversedText
+11. Jika ya, maka cetak "Palindrom"
+12. Jika tidak, maka cetak "Bukan Palindrom"
+13. Selesai
+
