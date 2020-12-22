@@ -21,4 +21,8 @@ const myData = {
   hobbies: ['Playing music', 'Programming', 'Playing Badminton']
 }
 
-console.log(myData)
+console.log(myData);
+
+const { address: { street, city } } = myData;
+console.log(street);
+console.log(city)
