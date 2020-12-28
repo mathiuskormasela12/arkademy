@@ -1,0 +1,20 @@
+Algoritma :
+1. Mulai
+2. inisialisasi variable
+   num, numArr, numAsc, numStr
+3. Input number kedalam variable num 
+4. Konversi variable num menjadi string 
+   dan masukan kedalam variable numStr
+5. Pecah string num menjadi array 
+   dengan separator angka 0 dan masukan
+   ke dalam variable numArr
+6. Pecah kembali setiap item dari string 
+   num yg ada pada variable numArr
+7. Urutkan element-element yg sudah di pecah itu 
+8. Gabungkan setiap item yang sudah di urutkan pada
+   step ke 6.
+9. Gabungkan setiap item yang sudah di pecah 
+   pada step 4
+10. Masukan kedalam variable numAsc 
+11. Konversi variable numAsc menjadi number 
+12. Selesai
