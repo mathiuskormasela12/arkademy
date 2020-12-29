@@ -17,4 +17,5 @@ Algoritma :
    pada step 4
 10. Masukan kedalam variable numAsc 
 11. Konversi variable numAsc menjadi number 
-12. Selesai
+12. Cetak numAsc
+13. Selesai
